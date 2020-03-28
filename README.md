@@ -6,7 +6,7 @@
 
 ## Link To The Report
 
-[Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTNkMjE2NjQtMTUxZS00MDY3LTk2MGQtNzc2Y2JkNWExMjcyIiwidCI6ImRmMjNiYWY0LTY1MTYtNDMwMy04MjhmLWZmNzhiNGFhNDEyOCIsImMiOjJ9)
+[Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2ZlMGE1YTMtNDI3ZC00MjU4LWFhMjktNDI0ZWZiNzM2YWRkIiwidCI6ImRmMjNiYWY0LTY1MTYtNDMwMy04MjhmLWZmNzhiNGFhNDEyOCIsImMiOjJ9)
 
 ## Introduction
 
@@ -15,6 +15,18 @@ As stated on the metadata tab of my Power BI Report, my name is Daniel Miradakis
 This is my own attempt to visualize the data that is being graciously provided by the [JHU team on their GitHub repository](https://github.com/CSSEGISandData/COVID-19).
 
 If you have any issues, requests, questions, or anything else relating to the Power BI Report I created, please open up an issue here so I can track it!
+
+## Bookmark Icons
+
+I heavily utilize the organizational power of bookmarks in Power BI. Thus, when you navigate back and forth between the various tabs of the report, you will not see any slicers.
+
+Additionally, because the window for publishing a Power BI Report to the web does not support visualizing the data behind a visual in tabular form, I also have a bookmark for each page containing either table data or pivot table data for the associated visuals.
+
+To navigate to these data tables, the slicers, or back to the main visuals, make sure to click the black icons located in the upper right-hand corner of each tab of the report.
+
+An example of them is below:
+
+![](Images/Bookmark%20Icons.png)
 
 ## Trends
 
